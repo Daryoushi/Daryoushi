@@ -2,8 +2,6 @@
 
 <h3 align="center"> Software Engineer · Full-Stack Developer · AI Agents </h3>
 
-<p align="center">   <a href="https://github.com/Daryoushi">     <img src="https://komarev.com/ghpvc/?username=Daryoushi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />   </a>   <a href="https://github.com/Daryoushi?tab=followers">     <img src="https://img.shields.io/github/followers/Daryoushi?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />   </a> </p>
-
 ---
 
 ## 🚀 About Me
