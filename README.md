@@ -1,23 +1,151 @@
-<h1 align="center">Hi 👋, I'm Abalfazl Daryoushi</h1> <h3 align="center">Software Engineer | Full-Stack Development & AI Agents</h3>
-🚀 About Me
-🎓 Computer Engineering student
-💻 Full-stack developer — web, mobile, and backend
-🤖 Building AI agents and RAG-based tools
-🌱 Always working on improving my code quality and problem-solving skills
-📍 Based in Tehran, Iran
-📫 Reach me at abalfazl.daryoushi37073@gmail.com
-🛠️ Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,php,python,fastapi,cpp,c,flutter,bash,linux,git,github" alt="tech stack icons" /> </p>
-📌 Featured Projects
-Project	Description	Tech
-liara-agentic-assistant	AI-powered documentation assistant for the Liara cloud platform — hybrid RAG search over 3,200+ doc chunks, agentic tools for config generation & pricing, multi-LLM support (Gemini, GPT-4o, Claude, DeepSeek)	Next.js, TypeScript, Redis
-Filmino	Interactive movie & TV discovery platform with 3D showcases, GSAP animations, advanced search/filtering, and a local watchlist, powered by the TMDB API	Next.js 16, TypeScript, Tailwind CSS, GSAP
-zarinpal-analytics-dashboard	Analytics dashboard turning 2.2M+ real merchant transactions into actionable insights, with full calculation traceability, a live revenue simulator, and a data-grounded AI copilot	FastAPI, DuckDB, Python
-arvancloud-cdn-reseller	Zero-dependency WordPress plugin for reselling ArvanCloud CDN — prepaid wallet system, instant provisioning, hourly usage billing, AES-256 encrypted key storage	PHP, WordPress, MySQL
-Doctor-Reservation	Full-stack medical appointment platform with OTP-based auth, doctor search & filtering, simulated online payments, and a review system	Next.js, TypeScript, MongoDB, JWT
-taskflow-pro	Full-featured Flutter to-do app — priorities, categories, due-date reminders, progress stats, and full RTL/Persian support	Flutter, Dart, SQLite
-smart-file-organizer	Bash script that automatically sorts files into categorized folders by type/extension, with duplicate handling and full activity logging	Bash, Linux
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Daryoushi&show_icons=true&theme=default&hide_border=true" alt="Daryoushi's GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daryoushi&layout=compact&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daryoushi&hide_border=true" alt="Daryoushi's Streak" /> </p>
-🌐 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/abalfazl-daryoushi-1b505b205" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://t.me/daryoushi_dev" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://instagram.com/a_daryoushi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:abalfazl.daryoushi37073@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+<h1 align="center">Hi 👋, I'm Abalfazl Daryoushi</h1>
+
+<h3 align="center"> Software Engineer · Full-Stack Developer · AI Agents </h3>
+
+<p align="center">   <a href="https://github.com/Daryoushi">     <img src="https://komarev.com/ghpvc/?username=Daryoushi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />   </a>   <a href="https://github.com/Daryoushi?tab=followers">     <img src="https://img.shields.io/github/followers/Daryoushi?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />   </a> </p>
+
+---
+
+## 🚀 About Me
+
+I'm a **Computer Engineering student and Software Engineer** focused on building modern web applications, backend systems, and AI-powered tools.
+
+My main interests are **Full-Stack Development, AI Agents, RAG systems, and developer tooling**. I enjoy turning ideas into practical products while continuously improving my engineering skills.
+
+* 🎓 Computer Engineering Student
+* 💻 Full-Stack Web & Backend Development
+* 🤖 AI Agents & RAG Systems
+* 🧠 Interested in AI-powered products and automation
+* 🌱 Always learning and improving
+* 📍 Tehran, Iran
+* 📫 [**Email me**](mailto:abalfazl.daryoushi37073@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,php,python,fastapi,cpp,c,flutter,bash,linux,mongodb,redis,git,github" /> </p>
+
+---
+
+## ⭐ Featured Projects
+
+<table> <tr> <td width="50%">
+
+### 🤖 Liara Agentic Assistant
+
+AI-powered documentation assistant for the **Liara Cloud Platform**.
+
+**Highlights**
+
+* Hybrid RAG search
+* 3,200+ documentation chunks
+* Agentic tools
+* Configuration & pricing generation
+* Multi-LLM support
+
+**Stack:** `Next.js` `TypeScript` `Redis`
+
+</td>
+
+<td width="50%">
+
+### 🎬 Filmino
+
+Interactive movie & TV discovery platform powered by the **TMDB API**.
+
+**Highlights**
+
+* 3D showcases
+* GSAP animations
+* Advanced search & filtering
+* Local watchlist
+* Modern responsive UI
+
+**Stack:** `Next.js 16` `TypeScript` `Tailwind` `GSAP`
+
+</td> </tr>
+
+<tr> <td width="50%">
+
+### 📊 Zarinpal Analytics Dashboard
+
+Analytics platform for transforming **2.2M+ merchant transactions** into actionable insights.
+
+**Highlights**
+
+* Full calculation traceability
+* Revenue simulator
+* Data-grounded AI Copilot
+* High-performance analytics
+
+**Stack:** `FastAPI` `Python` `DuckDB`
+
+</td>
+
+<td width="50%">
+
+### ☁️ ArvanCloud CDN Reseller
+
+WordPress plugin for reselling **ArvanCloud CDN** services.
+
+**Highlights**
+
+* Prepaid wallet system
+* Instant provisioning
+* Hourly usage billing
+* AES-256 encrypted key storage
+* Zero external dependencies
+
+**Stack:** `PHP` `WordPress` `MySQL`
+
+</td> </tr>
+
+<tr> <td width="50%">
+
+### 🩺 Doctor Reservation
+
+Full-stack medical appointment platform.
+
+**Highlights**
+
+* OTP authentication
+* Doctor search & filtering
+* Online payment simulation
+* Review system
+
+**Stack:** `Next.js` `TypeScript` `MongoDB` `JWT`
+
+</td>
+
+<td width="50%">
+
+### 📱 TaskFlow Pro
+
+Feature-rich Flutter task management application.
+
+**Highlights**
+
+* Task priorities
+* Categories
+* Due-date reminders
+* Progress statistics
+* Full RTL & Persian support
+
+**Stack:** `Flutter` `Dart` `SQLite`
+
+</td> </tr> </table>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Daryoushi&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daryoushi&layout=compact&hide_border=true" alt="Top Languages" /> </p>
+
+<p align="center">   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daryoushi&hide_border=true" alt="GitHub Streak" /> </p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">   <a href="https://www.linkedin.com/in/abalfazl-daryoushi-1b505b205">     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />   </a>   <a href="https://t.me/daryoushi_dev">     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />   </a>   <a href="https://instagram.com/a_daryoushi">     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />   </a>   <a href="mailto:[abalfazl.daryoushi37073@gmail.com](mailto:abalfazl.daryoushi37073@gmail.com)">     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />   </a> </p>
