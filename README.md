@@ -11,7 +11,7 @@ I'm a **Computer Engineering student and Software Engineer** focused on building
 My main interests are **Full-Stack Development, AI Agents, RAG systems, and developer tooling**. I enjoy turning ideas into practical products while continuously improving my engineering skills.
 
 * 🎓 Computer Engineering Student
-* 💻 Full-Stack Web & Backend Development
+* 💻 Full-Stack Web Development
 * 🤖 AI Agents & RAG Systems
 * 🧠 Interested in AI-powered products and automation
 * 🌱 Always learning and improving
