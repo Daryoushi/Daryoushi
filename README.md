@@ -7,7 +7,7 @@
 📍 Based in Tehran, Iran
 📫 Reach me at abalfazl.daryoushi37073@gmail.com
 🛠️ Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,php,wordpress,python,fastapi,cpp,c,flutter,dart,bash,linux,mongodb,redis,git,github" alt="tech stack icons" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,php,python,fastapi,cpp,c,flutter,bash,linux,git,github" alt="tech stack icons" /> </p>
 📌 Featured Projects
 Project	Description	Tech
 liara-agentic-assistant	AI-powered documentation assistant for the Liara cloud platform — hybrid RAG search over 3,200+ doc chunks, agentic tools for config generation & pricing, multi-LLM support (Gemini, GPT-4o, Claude, DeepSeek)	Next.js, TypeScript, Redis
