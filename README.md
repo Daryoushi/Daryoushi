@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abolfazl Daryoushi</h1> <h3 align="center">Software Engineer | Full-Stack Development & AI Agents</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Daryoushi&label=Profile%20views&color=0e75b6&style=flat" alt="Daryoushi" /> <a href="https://github.com/Daryoushi?tab=followers"><img src="https://img.shields.io/github/followers/Daryoushi?label=Followers&style=flat&color=0e75b6" /></a> </p>
+<h1 align="center">Hi 👋, I'm Abalfazl Daryoushi</h1> <h3 align="center">Software Engineer | Full-Stack Development & AI Agents</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Daryoushi&label=Profile%20views&color=0e75b6&style=flat" alt="Daryoushi" /> <a href="https://github.com/Daryoushi?tab=followers"><img src="https://img.shields.io/github/followers/Daryoushi?label=Followers&style=flat&color=0e75b6" /></a> </p>
 🚀 About Me
 🎓 Computer Engineering student
 💻 Full-stack developer — web, mobile, and backend
